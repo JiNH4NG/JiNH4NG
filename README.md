@@ -1,5 +1,5 @@
 <!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/J1nH4ng/J1nH4ng/main/assets/github-user-contribution.svg" >
+  <img src="https://raw.githubusercontent.com/J1nH4ng/JiNH4NG/main/assets/github-user-contribution.svg" >
 </div> -->
 
 <p aligen="center" style="width: 100%;" >
@@ -13,7 +13,7 @@
 ##  <a href="https://github.com/J1nH4ng" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
 
 - **访问次数**：
-  ![J1nH4ng](https://count.getloli.com/get/@J1nH4ng?theme=rule34) 
+  ![JiNH4NG](https://count.getloli.com/get/@JiNH4NG?theme=rule34) 
 <!-- - **所在地的天气**：-->
 <!--  ![天气](https://weather-icon.journeyad.repl.co/@suzhou?v=1) -->
 - **我的设备**：
