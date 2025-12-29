@@ -75,7 +75,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 <p aligen="center">
-<img style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=J1nH4ng&theme=github-compact&hide_border=true&area=true" />
+<img style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JiNH4NG&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ## ⌨️每周Code Time[![Waka Readme](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml/badge.svg)](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml)
