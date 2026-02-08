@@ -83,11 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text         4 hrs 35 mins   █████████████████████▓░░░   86.31 %
-Mermaid      28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-BibTeX       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-textmate     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
